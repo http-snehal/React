@@ -1,14 +1,18 @@
 function Task() {
+  
+    let ToDoTask = `padhle`;
+    let Date = `14-11-2025`;
   return (
-   <div class="container text-center">
+
+   <div id = "addedTask"class="container text-center">
       <div class="row g-3 align-items-center">
-        <div class="col-3">
-          <h5>padhle </h5>
+        <div class="col-6">
+          <h5>{ToDoTask}</h5>
         </div>
-        <div class="col-3">
-          <h5>14-11-2025</h5>
+        <div class="col-4">
+          <h5>{Date}</h5>
         </div>
-        <div class="col-auto">
+        <div class="col-2">
           <button type="button" class="btn btn-danger">
             Delete
           </button>
