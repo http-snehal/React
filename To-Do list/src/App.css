@@ -11,14 +11,14 @@ h1 {
 
 #entry {
   background-color: #f0f0f0;
-  border: 1px solid ;
-  padding : 20px;
-
+  border: 1px solid;
+  padding: 20px;
+  width: 100%;
 }
 
 #addedTask {
   background-color: #f0f0f0;
   border: 1px solid #3d4961;
-  padding : 20px ;
-
+  padding: 20px;
+  width: 100%;
 }
