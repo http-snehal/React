@@ -1,7 +1,7 @@
 function Header() {
   return (
     <div>
-      <h1>Bharat Clock</h1>
+      <h1 class = "fw-bold">Bharat Clock</h1>
     </div>
   );
 }

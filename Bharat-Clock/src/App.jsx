@@ -5,6 +5,7 @@ import './App.css'
 import Header from './header'
 import Slogan from './slogan'
 import Time from './time'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 function App() {

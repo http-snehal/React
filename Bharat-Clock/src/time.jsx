@@ -3,7 +3,7 @@ function Time() {
 
   return (
     <div>
-      <p>
+      <p class = "font-monospace">
         Date: {time.toLocaleDateString()} and Time: {time.toLocaleTimeString()}
       </p>
     </div>
